@@ -22,7 +22,7 @@ void main(){
 	printf("\n inicio prueba do \n");
 	i=0;
 	do{
-		printf("%d ,",i);
+		printf("%d, ",i);
 		i=i+1;
 	}while(i<=100);
 	printf("\n fin prueba do \n");
@@ -30,18 +30,9 @@ void main(){
 	printf("\n inicio prueba do \n");
 	i=0;
 	do{
-		printf("%d ,",i);
+		printf("%d, ",i);
 		i=i+1;
 	}while(i<=100);
 	printf("\n fin prueba do \n");
-//------------------------------------------------------------------------------
-	printf("\n inicio prueba goto \n");
-	i=0;
-	
-	do{
-		printf("%d ,",i);
-		i=i+1;
-	}while(i<=100);
-	printf("\n fin prueba do \n");
-//------------------------------------------------------------------------------
+
 }
